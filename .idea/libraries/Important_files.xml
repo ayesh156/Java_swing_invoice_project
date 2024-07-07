@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Important files">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/Important files/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Important files/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Important files/commons-digester-2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
